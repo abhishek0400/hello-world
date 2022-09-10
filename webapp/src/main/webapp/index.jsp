@@ -1,6 +1,16 @@
-<form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-</form>
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Password Input Control</title>
+   </head>
+	
+   <body>
+      <form >
+         User ID : <input type = "text" name = "user_id" />
+         <br>
+         Password: <input type = "password" name = "password" />
+      </form>
+   </body>
+	
+</html>
