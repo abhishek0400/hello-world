@@ -1,7 +1,7 @@
 <Html>  
   <head>   
   <title>  
-  Registration Page  
+  New Registration Page  
   </title>  
   </head>  
   <body bgcolor="Lightskyblue">  
@@ -26,7 +26,7 @@
   <option value="B.Tech">B.Tech</option>  
   <option value="MBA">MBA</option>  
   <option value="MCA">MCA</option>  
-  <option value="B.ed">B.ed</option>  
+  <option value="M.tech">M.tech</option>  
   </select>  
     
   <br>  
