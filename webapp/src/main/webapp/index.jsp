@@ -26,7 +26,7 @@
   <option value="B.Tech">B.Tech</option>  
   <option value="MBA">MBA</option>  
   <option value="MCA">MCA</option>  
-  <option value="M.Tech">M.Tech</option>  
+  <option value="B.ed">B.ed</option>  
   </select>  
     
   <br>  
