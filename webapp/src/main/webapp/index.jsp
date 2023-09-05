@@ -4,7 +4,7 @@
   New Registration Page  
   </title>  
   </head>  
-  <body bgcolor="Lightskyblue">  
+  <body bgcolor="red">  
   <br>  
   <br>  
   <form>  
@@ -24,7 +24,7 @@
   <option value="BCA">BCA</option>  
   <option value="BBA">BBA</option>  
   <option value="B.Tech">B.Tech</option>  
-  <option value="MBA">MBA</option>  
+  <option value="MBA devopsaura">MBA</option>  
   <option value="MCA">MCA</option>  
   <option value="M.tech">M.tech</option>  
   </select>  
